@@ -1261,3 +1261,12 @@ INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
 INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:55:27] "GET / HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:55:27] "GET /static/SideBar.css HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:55:27] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:56:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:56:26] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:56:26] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -

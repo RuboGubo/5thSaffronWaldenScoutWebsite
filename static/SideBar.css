@@ -1,0 +1,95 @@
+* {
+    font-family: Montserrat;
+}
+
+.sidenav {
+    height: 100%;
+    /* Full-height: remove this if you want "auto" height */
+    width: 200px;
+    /* Set the width of the sidebar */
+    position: fixed;
+    /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1;
+    /* Stay on top */
+    top: 0;
+    /* Stay at the top */
+    left: 0;
+    background-color: rgba(102, 0, 180, 1);
+    color: white;
+    /* Black */
+    overflow-x: hidden;
+    /* Disable horizontal scroll */
+    list-style: none;
+}
+
+.sidenav h1 {
+    margin-left: 11px;
+    margin-top: 0;
+}
+
+.sidenav div {
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.sidenav div li {
+    position: relative;
+}
+
+@keyframes Links {
+    0% {
+        color: white;
+    }
+    100% {
+        color: rgb(122, 68, 163);
+    }
+}
+
+.sidenav div li a {
+    color: white;
+    text-decoration: none;
+}
+
+.sidenav div li a:hover {
+    animation: Links 0.25s;
+    color: rgb(122, 68, 163);
+}
+
+.sidenav img {
+    height: auto;
+    width: 80%;
+    margin: 10%;
+}
+
+@keyframes loadin {
+    0% {
+        left: -10%;
+    }
+    100% {
+        left: 0%;
+    }
+}
+
+.sidenav div li:hover .sub-menu {
+    display: block;
+}
+
+.sub-menu {
+    display: none;
+    position: relative;
+    list-style: none;
+    margin: 0;
+    animation: loadin 0.25s;
+}
+
+
+/* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
+
+@media screen and (max-height: 450px) {
+    .sidenav {
+        padding-top: 15px;
+    }
+    .sidenav a {
+        font-size: 18px;
+    }
+}

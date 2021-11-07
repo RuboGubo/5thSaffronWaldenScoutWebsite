@@ -1,0 +1,1263 @@
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:15:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:00] "GET /static/main.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:00] "GET /static/header.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:00] "GET /static/Calls.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:00] "GET /static/SN-04.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:00] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:09] "GET /ControlPanel/?password= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:09] "[36mGET /static/header.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:09] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:09] "[36mGET /static/Calls.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:09] "[36mGET /static/SN-04.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:09] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:10] "GET /schedule/?password= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:10] "GET /static/ScheduleStyle.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:10] "[36mGET /static/header.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:10] "[36mGET /static/SN-04.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:10] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:11] "GET /ControlPanel/?password= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:12] "[36mGET /static/header.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:12] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:12] "[36mGET /static/Calls.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:12] "[36mGET /static/SN-04.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:12] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:12] "GET /schedule/?password= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:12] "[36mGET /static/ScheduleStyle.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:12] "[36mGET /static/header.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:12] "[36mGET /static/SN-04.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:12] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:13] "GET /ControlPanel/?password= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:13] "[36mGET /static/header.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:13] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:13] "[36mGET /static/Calls.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:13] "[36mGET /static/SN-04.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:13] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:13] "GET /schedule/?password= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:13] "[36mGET /static/ScheduleStyle.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:13] "[36mGET /static/header.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:13] "[36mGET /static/SN-04.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:13] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:15] "GET /ControlPanel/?password= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:15] "[36mGET /static/header.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:15] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:15] "[36mGET /static/Calls.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:15] "[36mGET /static/SN-04.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:15] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:15] "GET /schedule/?password= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:16] "[36mGET /static/ScheduleStyle.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:16] "[36mGET /static/header.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:16] "[36mGET /static/SN-04.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:16] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:16] "GET /ControlPanel/?password= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:16] "[36mGET /static/header.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:16] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:16] "[36mGET /static/Calls.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:16] "[36mGET /static/SN-04.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:16] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:17] "GET /schedule/?password= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:17] "[36mGET /static/ScheduleStyle.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:17] "[36mGET /static/header.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:17] "[36mGET /static/SN-04.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:16:17] "[36mGET /static/favicon.ico HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rubo Gubo\\Documents\\Prodject\\ScoutWebsite\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:20:39] "GET /test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:20:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:21:32] "GET /test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:21:33] "[33mGET /SideBar_files/cbgapi.loaded_0 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:21:33] "[33mGET /SideBar_files/css.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:21:33] "[33mGET /SideBar_files/css_002.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:21:33] "[33mGET /SideBar_files/rsAGEqA5lotoMTUCiktrRtdWbLas1AYYa7Aw.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:21:33] "[33mGET /SideBar_files/client.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:21:33] "[33mGET /SideBar_files/js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:21:33] "[33mGET /SideBar_files/mview HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:21:33] "[33mGET /SideBar_files/hhTcbgkWyEI3xoW8MDu23sV2bgzPxUSitf03hjaCAiCa-oiaGDUq4ZPNI-IZ.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:21:33] "[33mGET /SideBar_files/wq65lOx2i6gp0Z9mjz8mCmlFWiE6ESEHJWNAdoGOC6_h_676gbOX_PwP0UO_.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:25:13] "[33mGET /test] HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:25:15] "GET /test HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:29:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:29:08] "[36mGET /static/Calls.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:29:08] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:29:08] "[36mGET /static/main.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:29:08] "GET /static/header.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:29:08] "[36mGET /static/SN-04.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:29:08] "GET /static/favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:29:10] "GET /test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:29:16] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:29:16] "[36mGET /static/header.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:30:59] "GET /test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:31:17] "GET /test HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:33:41] "GET /test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:33:44] "[33mGET /site/5thsaffronwaldenscouts/external-links?authuser=0 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:33:49] "GET /test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:33:53] "[33mGET /site/5thsaffronwaldenscouts/Home/scouts?authuser=0 HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:34:20] "[33mGET /site/5thsaffronwaldenscouts/Home/scouts?authuser=0 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:34:32] "GET /test HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:36:09] "GET /test HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:36:11] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:36:11] "GET /static/header.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:36:12] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:36:13] "[36mGET /static/header.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:36:41] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:36:41] "[36mGET /static/header.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:36:42] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:36:42] "[36mGET /static/header.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:37:02] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:37:03] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:37:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:49:43] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:49:44] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:51:58] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:51:59] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:54:37] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:54:37] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:55:04] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:55:05] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:55:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:56:18] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:56:18] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:56:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:56:51] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:56:51] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:56:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:57:05] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:57:06] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:58:06] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:58:06] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:58:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:58:47] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:58:47] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:58:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:59:52] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 13:59:53] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:00:49] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:00:50] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:00:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:00:53] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:00:53] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:00:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:01:04] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:01:04] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:01:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:01:12] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:01:12] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:01:12] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:01:16] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:01:51] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:01:52] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:01:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:02:38] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:02:38] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:02:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:03:27] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:03:28] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:03:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:05:23] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:05:24] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:05:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:06:25] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:06:26] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:06:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:07:03] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:07:04] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:07:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:07:33] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:07:34] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:07:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:08:17] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:08:17] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:08:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:08:30] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:08:30] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:08:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:09:38] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:09:38] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:09:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:09:56] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:09:56] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:09:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:11:52] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:11:52] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:11:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:12:17] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:12:19] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:12:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:12:55] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:12:55] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:12:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:13:36] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:13:36] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:13:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:15:54] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:15:54] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:15:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:16:33] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:16:33] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:16:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:16:36] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:16:36] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:16:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:16:56] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:16:56] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:16:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:19:10] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:19:11] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:19:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:19:12] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:19:12] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:19:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:20:32] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:20:34] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:20:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:20:59] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:20:59] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:20:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:21:52] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:21:52] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 14:21:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:21:21] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:21:22] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:21:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:28:29] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:28:29] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:28:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:29:29] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:29:29] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:29:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:29:43] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:29:44] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:29:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:30:04] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:30:05] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:30:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:30:44] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:30:45] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:30:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:30:55] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:30:55] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:31:09] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:31:10] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:31:25] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:31:27] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:31:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:31:50] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:31:50] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:31:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:31:59] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:32:00] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:32:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:33:08] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:33:08] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:33:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:34:17] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:34:17] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:34:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:34:39] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:34:39] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:34:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:35:14] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:35:15] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:35:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:35:15] "GET /static/SN-04.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:35:55] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:35:56] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:35:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:35:56] "GET /static/SN-04.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:36:04] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:36:05] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:36:05] "[36mGET /static/SN-04.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:36:21] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:36:22] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:36:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:36:22] "GET /static/SN-04.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:37:25] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:37:25] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:37:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:37:25] "GET /static/SN-04.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:38:11] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:38:12] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:38:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:38:12] "GET /static/ScourtsLogo1.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:39:02] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:39:02] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:39:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:39:03] "GET /static/ScourtsLogo1.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:40:36] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:40:37] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:40:37] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:40:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:40:47] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:40:49] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:40:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:40:49] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:42:12] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:42:13] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:42:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:42:13] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:42:34] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:42:34] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:42:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:42:34] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:42:59] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:43:00] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:43:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:43:00] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:43:16] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:43:16] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:43:16] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:43:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:43:32] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:43:32] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:43:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:43:32] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:43:42] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:43:43] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:43:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:43:43] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:44:19] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:44:21] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:44:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 15:44:21] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:49:40] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:49:41] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:49:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:49:41] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:51:49] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:51:49] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:51:49] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:51:51] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:51:51] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:51:51] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:52:01] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:52:01] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:52:02] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:52:03] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:52:03] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:52:03] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:52:04] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:52:04] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:52:04] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:52:05] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:52:05] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:52:05] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:52:06] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:52:06] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 18:52:06] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:03:11] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:03:12] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:03:12] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:03:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:05:04] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:05:05] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:05:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:05:05] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:06:24] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:06:25] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:06:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:06:25] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:07:44] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:07:44] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:07:44] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:07:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:08:51] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:08:52] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:08:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:08:52] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:09:04] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:09:05] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:09:05] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:12:08] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:12:09] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:12:09] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:12:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:12:49] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:12:49] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:12:50] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:16:57] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:16:57] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:16:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:16:57] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:17:43] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:17:44] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:17:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:17:44] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:18:33] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:18:33] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:18:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:18:33] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:20:15] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:20:15] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:20:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:20:15] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:23:10] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:23:10] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:23:10] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:23:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:24:07] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:24:07] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:24:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:24:07] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:26:51] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:26:51] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:26:51] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:26:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:26:58] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:26:58] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:26:58] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:26:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:27:14] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:27:15] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:27:15] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:27:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:27:36] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:27:37] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:27:37] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:27:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:27:47] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:27:47] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:27:47] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:28:04] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:28:05] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:28:05] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:28:23] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:28:23] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:28:24] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:28:34] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:28:35] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:28:35] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:28:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:29:08] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:29:09] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:29:09] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:29:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:29:49] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:29:49] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:29:49] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:30:05] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:30:07] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:30:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:30:07] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:30:39] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:30:39] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:30:39] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:30:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:31:00] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:31:00] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:31:00] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:31:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:31:16] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:31:16] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:31:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:31:16] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:31:52] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:31:54] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:31:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:31:54] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:32:22] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:32:24] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:32:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:32:24] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:32:32] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:32:33] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:32:33] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:32:50] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:32:50] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:32:50] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:32:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:33:18] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:33:18] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:33:18] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:34:04] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:34:04] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:34:04] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:34:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:34:57] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:34:58] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:34:58] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:34:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:35:20] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:35:21] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:35:21] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:35:40] "GET /test2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:35:42] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:35:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:35:42] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rubo Gubo\\Documents\\Prodject\\ScoutWebsite\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rubo Gubo\\Documents\\Prodject\\ScoutWebsite\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:22] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:22] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:24] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:24] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:26] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:26] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:27] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:27] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:28] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:28] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:28] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:28] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:29] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:29] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:30] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:30] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:40] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:40] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:58] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:45:58] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:46:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:46:07] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:46:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:46:07] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:46:14] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:46:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:46:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:46:42] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:46:42] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:46:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:47:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:47:07] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:47:07] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:47:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:47:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:47:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:47:40] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:48:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:48:20] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:48:20] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:48:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:48:27] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:48:27] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:53:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:53:53] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:53:53] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:53:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rubo Gubo\\Documents\\Prodject\\ScoutWebsite\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:55:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:55:27] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:55:27] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -

@@ -10,38 +10,38 @@
     <!-- Nav Bar-->
     <div class="sidenav">
         <img src="{{url_for('static', filename='scouts-stack-white.svg')}}">
-        <h1>Saffron Walden Scouts</h1>
+        <h1>Saffron Walden District</h1>
         <div>
-            <li><a href="#">Beavers</a>
+            <li id='Beavers'><a href="#Beavers">Beavers</a>
                 <ul class="sub-menu">
-                    <li><a href="#">Sub Menu</a></li>
-                    <li><a href="#">Sub Menu</a></li>
-                    <li><a href="#">Sub Menu</a></li>
-                    <li><a href="#">Sub Menu</a></li>
+                    <li><a target="Main" href="{{url_for('API', ProgramID=1)}}">Sub Menu</a></li>
+                    <li><a target="Main" href="{{url_for('API', ProgramID=2)}}">Sub Menu</a></li>
+                    <li><a target="Main" href="{{url_for('API', ProgramID=3)}}">Sub Menu</a></li>
+                    <li><a target="Main" href="{{url_for('API', ProgramID=4)}}">Sub Menu</a></li>
                 </ul>
             </li>
-            <li><a href="#">Cubs</a>
+            <li id='Cubs'><a href="#Cubs">Cubs</a>
                 <ul class="sub-menu">
-                    <li><a href="#">Sub Menu</a></li>
-                    <li><a href="#">Sub Menu</a></li>
-                    <li><a href="#">Sub Menu</a></li>
-                    <li><a href="#">Sub Menu</a></li>
+                    <li><a target="Main" href="{{url_for('API', ProgramID=1)}}">Sub Menu</a></li>
+                    <li><a target="Main" href="{{url_for('API', ProgramID=1)}}">Sub Menu</a></li>
+                    <li><a target="Main" href="{{url_for('API', ProgramID=1)}}">Sub Menu</a></li>
+                    <li><a target="Main" href="{{url_for('API', ProgramID=1)}}">Sub Menu</a></li>
                 </ul>
             </li>
-            <li><a href="#">Scouts</a>
+            <li id='Scouts'><a href="#Scouts">Scouts</a>
                 <ul class="sub-menu">
-                    <li><a href="#">Sub Menu</a></li>
-                    <li><a href="#">Sub Menu</a></li>
-                    <li><a href="#">Sub Menu</a></li>
-                    <li><a href="#">Sub Menu</a></li>
+                    <li><a target="Main" href="{{url_for('API', ProgramID=1)}}">Sub Menu</a></li>
+                    <li><a target="Main" href="{{url_for('API', ProgramID=1)}}">Sub Menu</a></li>
+                    <li><a target="Main" href="{{url_for('API', ProgramID=1)}}">Sub Menu</a></li>
+                    <li><a target="Main" href="{{url_for('API', ProgramID=1)}}">Sub Menu</a></li>
                 </ul>
             </li>
-            <li><a href="#">Explorers</a>
+            <li id='Explorers'><a href="#Explorers">Explorers</a>
                 <ul class="sub-menu">
-                    <li><a href="#">Sub Menu</a></li>
-                    <li><a href="#">Sub Menu</a></li>
-                    <li><a href="#">Sub Menu</a></li>
-                    <li><a href="#">Sub Menu</a></li>
+                    <li><a target="Main" href="{{url_for('ExplorersVideosFromCamp')}}">Videos</a></li>
+                    <li><a target="Main" href="https://www.sw-bc.org/activities/5th-saffron-walden-scouts/">Sub Menu</a></li>
+                    <li><a target="Main" href="{{url_for('API', ProgramID=1)}}">Sub Menu</a></li>
+                    <li><a target="Main" href="{{url_for('API', ProgramID=1)}}">Sub Menu</a></li>
                 </ul>
             </li>
         </div>

@@ -1270,3 +1270,1336 @@ INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
 INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:56:26] "GET / HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:56:26] "GET /static/SideBar.css HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [07/Nov/2021 20:56:26] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:34:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:34:30] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:34:30] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:34:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:36:41] "[32mGET /API/1 HTTP/1.1[0m" 308 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:36:41] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:38:10] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:38:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:38:12] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:38:13] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:38:13] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:38:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:38:32] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+DEBUG:root:ProgramID=1
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:38:32] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:38:32] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:38:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:38:34] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:38:34] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:38:34] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:39:03] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:39:04] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:39:05] "GET / HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:39:05] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:39:06] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:39:06] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:39:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:39:07] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:39:07] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:39:07] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rubo Gubo\\Documents\\Prodject\\ScoutWebsite\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:39:29] "GET / HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:39:29] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:39:30] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:39:30] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:41:01] "GET / HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:41:01] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:41:02] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:41:02] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:41:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:41:04] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:41:04] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:41:04] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:41:13] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:41:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:41:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:41:22] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:41:22] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:41:22] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:41:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:41:45] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:41:45] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:41:45] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:42:02] "GET / HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:42:02] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:42:02] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:42:02] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:42:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:42:57] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:42:57] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:42:57] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:43:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:43:27] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:43:27] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:43:27] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:43:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:43:56] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:43:56] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:43:56] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:44:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:44:53] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:44:53] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:44:53] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:45:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:45:14] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:45:14] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:45:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:45:40] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:45:40] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:45:41] "[32mGET /API/1 HTTP/1.1[0m" 308 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:45:42] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:45:43] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:46:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:46:06] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:46:06] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:46:08] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:50:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:50:34] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:50:34] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:50:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:50:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:50:36] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:50:36] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:51:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:51:02] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:51:02] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:51:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:51:04] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:51:04] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:52:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:52:27] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:52:27] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:52:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:52:46] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:52:46] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:52:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:52:48] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:52:49] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:52:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:52:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:52:54] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:52:54] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:53:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:53:29] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:53:29] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:53:39] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:54:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:54:29] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:54:29] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:55:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:55:08] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:55:08] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:55:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:55:10] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:55:10] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:58:27] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:58:27] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:58:27] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:58:28] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 22:58:28] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:26] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:26] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:28] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:30] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:30] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:30] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:31] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:31] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:32] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:36] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:37] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:37] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:38] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:38] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:38] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:39] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:40] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:40] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:41] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:41] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:58] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:00:59] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:09] "GET / HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:09] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:09] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:09] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:11] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=2
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:12] "GET /API/2/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=3
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:13] "GET /API/3/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=4
+DEBUG:root:error
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:13] "GET /API/4/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=3
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:14] "GET /API/3/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=4
+DEBUG:root:error
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:16] "GET /API/4/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=4
+DEBUG:root:error
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:17] "GET /API/4/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=4
+DEBUG:root:error
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:18] "GET /API/4/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=4
+DEBUG:root:error
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:18] "GET /API/4/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=4
+DEBUG:root:error
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:18] "GET /API/4/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=4
+DEBUG:root:error
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:18] "GET /API/4/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=4
+DEBUG:root:error
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:19] "GET /API/4/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=4
+DEBUG:root:error
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:19] "GET /API/4/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=2
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:21] "GET /API/2/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=3
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:22] "GET /API/3/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:24] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:26] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:26] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:26] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:27] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:28] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:28] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=2
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:29] "GET /API/2/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:29] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=3
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:29] "GET /API/3/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=4
+DEBUG:root:error
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:30] "GET /API/4/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=2
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:30] "GET /API/2/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:31] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:41] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=2
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:41] "GET /API/2/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=3
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:41] "GET /API/3/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=3
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:42] "GET /API/3/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:44] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+DEBUG:root:ProgramID=3
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:45] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:45] "GET /API/3/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:47] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:47] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:48] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:48] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:51] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:53] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:55] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:56] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:56] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=3
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:58] "GET /API/3/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=4
+DEBUG:root:error
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:01:59] "GET /API/4/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:02:01] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:02:03] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:02:09] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=2
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:02:10] "GET /API/2/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=3
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:02:10] "GET /API/3/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=4
+DEBUG:root:error
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:02:10] "GET /API/4/ HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:04:08] "GET / HTTP/1.1" 200 -
+DEBUG:root:ProgramID=4
+DEBUG:root:error
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:04:09] "GET /API/4/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:04:09] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:04:09] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:04:11] "GET /Pages/Home/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:04:11] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:04:11] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+DEBUG:root:ProgramID=2
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:04:12] "GET /API/2/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:04:13] "GET /Pages/Home/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:04:13] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:04:13] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rubo Gubo\\Documents\\Prodject\\ScoutWebsite\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:25] "GET /Pages/Home/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:25] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:25] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:29] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:35] "[35m[1mGET /Pages/Explorers/VideosFromCamp HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:35] "GET /Pages/Explorers/VideosFromCamp?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:35] "GET /Pages/Explorers/VideosFromCamp?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:35] "GET /Pages/Explorers/VideosFromCamp?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:35] "GET /Pages/Explorers/VideosFromCamp?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:38] "[35m[1mGET /Pages/Explorers/VideosFromCamp HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:38] "GET /Pages/Explorers/VideosFromCamp?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:38] "GET /Pages/Explorers/VideosFromCamp?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:38] "GET /Pages/Explorers/VideosFromCamp?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:39] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:40] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:41] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:41] "[35m[1mGET /Pages/Explorers/VideosFromCamp HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:41] "GET /Pages/Explorers/VideosFromCamp?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:41] "GET /Pages/Explorers/VideosFromCamp?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:41] "GET /Pages/Explorers/VideosFromCamp?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:43] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=4
+DEBUG:root:error
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:45] "GET /API/4/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=3
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:45] "GET /API/3/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=2
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:45] "GET /API/2/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:06:45] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:24] "GET / HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:24] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:25] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:25] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:39] "GET / HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:39] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:39] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:39] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:41] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:41] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:43] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:43] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:44] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:44] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:44] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:44] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:45] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:45] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:46] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:46] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:47] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:07:47] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:08:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:08:21] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:08:21] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:08:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:09:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:09:25] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:09:25] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:09:48] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=3
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:09:49] "GET /API/3/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=4
+DEBUG:root:error
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:09:49] "GET /API/4/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:09:50] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:09:51] "[35m[1mGET /Pages/Explorers/VideosFromCamp HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:09:51] "GET /Pages/Explorers/VideosFromCamp?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:09:51] "GET /Pages/Explorers/VideosFromCamp?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:09:51] "GET /Pages/Explorers/VideosFromCamp?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:09:51] "GET /Pages/Explorers/VideosFromCamp?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:09:53] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:09:55] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:09:57] "[35m[1mGET /Pages/Explorers/VideosFromCamp HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:09:57] "GET /Pages/Explorers/VideosFromCamp?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:09:57] "GET /Pages/Explorers/VideosFromCamp?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:09:58] "GET /Pages/Explorers/VideosFromCamp?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:10:01] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:10:03] "[35m[1mGET /Pages/Explorers/VideosFromCamp HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:10:03] "GET /Pages/Explorers/VideosFromCamp?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:10:03] "GET /Pages/Explorers/VideosFromCamp?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:10:03] "GET /Pages/Explorers/VideosFromCamp?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:10:10] "[35m[1mGET /Pages/Explorers/VideosFromCamp HTTP/1.1[0m" 500 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:11:56] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:12:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:12:47] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:12:47] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:12:53] "[35m[1mGET /Pages/Explorers/VideosFromCamp HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:12:53] "GET /Pages/Explorers/VideosFromCamp?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:12:53] "GET /Pages/Explorers/VideosFromCamp?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:12:53] "GET /Pages/Explorers/VideosFromCamp?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:13:07] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:13:18] "GET //API/1/ HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:14:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:14:27] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:14:27] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:14:29] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:14:32] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:14:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:14:50] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:14:50] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:14:53] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:15:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:15:04] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:15:04] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:15:05] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:15:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:15:30] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:15:30] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:15:32] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:15:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:15:46] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:16:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:16:24] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:16:24] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:16:33] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:16:34] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:17:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:17:01] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:17:01] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:17:57] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:18:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:18:08] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:18:08] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:18:10] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:18:11] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:18:12] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:19:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:19:04] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:19:04] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:19:06] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:19:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:19:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:19:36] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:19:36] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:19:40] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:20:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:20:21] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:20:21] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:20:24] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:22:52] "[33mGET /api/1 HTTP/1.1[0m" 404 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:22:55] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:23:09] "GET //Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:23:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:23:43] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:23:43] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:23:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:23:48] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:24:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:24:44] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:24:45] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:24:49] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:25:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:25:12] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:25:13] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:25:15] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:25:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:25:27] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:25:27] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:25:29] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:26:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:26:27] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:26:27] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:26:29] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:26:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:26:49] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:26:49] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:26:51] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:27:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:27:44] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:27:44] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:27:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:27:46] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:28:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:28:03] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:28:03] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:28:05] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:28:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:28:54] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:28:55] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:28:56] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:29:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:29:06] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:29:06] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:29:08] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:29:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:29:16] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:29:16] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:29:18] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:29:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:29:50] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:29:51] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:29:53] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:30:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:30:31] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:30:31] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:30:34] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:31:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:31:10] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:31:11] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:31:13] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:31:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:31:23] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:31:23] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:31:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:31:24] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:31:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:31:37] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:31:37] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:31:39] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:31:40] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:31:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:31:51] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:31:51] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:31:53] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:32:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:32:18] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:32:18] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:32:19] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:32:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:32:57] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:32:57] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:33:00] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:33:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:33:21] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:33:21] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:33:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:33:23] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:34:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:34:07] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:34:07] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:34:09] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:34:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:34:17] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:34:17] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2021 23:34:19] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:42:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:42:37] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:42:37] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:42:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:42:40] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:43:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:43:15] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:43:15] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:43:17] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:43:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:43:32] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:43:32] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:43:35] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:43:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:43:41] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:43:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:43:52] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:43:53] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:44:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:44:20] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:44:20] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:44:23] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:45:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:45:12] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:45:12] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:45:13] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:45:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:45:42] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:45:42] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:45:44] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:45:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:45:50] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:45:50] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:45:52] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:45:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:45:58] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:45:58] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:46:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:46:05] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:46:05] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:46:06] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:46:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:46:13] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:46:13] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:46:16] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:47:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:47:10] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:47:10] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:47:12] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:48:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:48:33] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:48:33] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:48:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:48:39] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:48:39] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:48:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:48:46] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:48:46] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:48:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:48:56] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:48:56] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:49:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:49:03] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:49:03] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:49:18] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:50:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:50:04] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:50:04] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:50:07] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:50:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:50:20] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:50:21] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:50:23] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:50:54] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=2
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:50:57] "GET /API/2/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=3
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:50:58] "GET /API/3/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=4
+DEBUG:root:error
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:50:58] "GET /API/4/ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rubo Gubo\\Documents\\Prodject\\ScoutWebsite\\app.py', reloading
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:51:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:51:38] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:51:39] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:51:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:51:48] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:51:48] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:51:50] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:51:51] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:51:52] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:51:52] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:52:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rubo Gubo\\Documents\\Prodject\\ScoutWebsite\\app.py', reloading
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:52:24] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:52:24] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:52:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:52:30] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:52:30] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:52:34] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:52:44] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Rubo Gubo\\Documents\\Prodject\\ScoutWebsite\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:53:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:53:32] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:53:32] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:53:34] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:53:36] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:53:37] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:54:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:54:14] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:54:14] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:54:17] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:54:19] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:54:19] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:54:19] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:54:19] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:54:19] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:55:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:55:19] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:55:20] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:55:22] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:55:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:55:36] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:55:36] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:55:38] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:55:40] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:56:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:56:03] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:56:03] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:56:05] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:56:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:56:12] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:56:13] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:56:14] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:57:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:57:06] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:57:06] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:57:08] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:57:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:57:24] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:57:25] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:57:27] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:57:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:57:44] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:57:44] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:57:46] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:58:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:58:11] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:58:11] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:58:23] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:59:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:59:23] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:59:24] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:59:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:59:32] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:59:32] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 21:59:37] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:00:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:00:17] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:00:17] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:00:19] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:00:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:00:59] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:00:59] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:01:02] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:01:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:01:21] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:01:21] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:01:21] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:01:22] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:01:24] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:01:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:01:52] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:01:52] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:01:54] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:02:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:02:41] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:02:42] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:02:43] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:03:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:03:04] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:03:04] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:03:05] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:20:56] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:21:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:21:21] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:21:21] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:22:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:22:13] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:22:13] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:22:16] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:22:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:22:39] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:22:39] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:22:43] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:23:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:23:04] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:23:04] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:23:04] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:23:05] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:23:06] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:23:06] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:23:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:23:37] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:23:37] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:24:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:24:35] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:24:35] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:25:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:25:21] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:25:21] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:25:36] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:25:43] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:31:02] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:33:54] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:35:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:35:41] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:35:41] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:36:11] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=2
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:36:12] "GET /API/2/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=3
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:36:13] "GET /API/3/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=4
+DEBUG:root:error
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:36:13] "GET /API/4/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:36:14] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:36:15] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:36:23] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:37:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:37:40] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:37:40] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:37:44] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:37:44] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2021 22:38:35] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:21:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:21:22] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:21:22] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:21:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 141-764-490
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.0.38:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:22:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:22:01] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:22:01] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:22:11] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:22:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:24:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:24:43] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:24:43] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:29:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:29:34] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:29:34] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:29:36] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:29:42] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=2
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:29:43] "GET /API/2/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=3
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:29:43] "GET /API/3/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=4
+DEBUG:root:error
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:29:44] "GET /API/4/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:29:46] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:29:47] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:29:48] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:29:50] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:29:52] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:29:54] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:30:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:30:40] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:30:40] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:30:42] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:30:43] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:30:44] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:30:46] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:37:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:37:52] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:37:52] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:37:55] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:38:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:38:32] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:38:33] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:38:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:39:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:39:15] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:39:15] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:40:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:40:11] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:40:11] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:40:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:40:18] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:40:18] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:40:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:40:24] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:40:24] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:40:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:40:48] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:40:48] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:40:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:40:56] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:40:56] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:41:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:41:08] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:41:08] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:41:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:41:27] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:41:27] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:43:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:43:49] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:43:49] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:44:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:44:04] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:44:04] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:44:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:44:56] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:44:56] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:45:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:45:06] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:45:06] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:45:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:45:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:45:13] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:45:13] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:45:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:45:19] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:45:19] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:45:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:45:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:45:25] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:45:25] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:49:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:49:59] "GET /static/SideBar.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:49:59] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:49:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:root:ProgramID=2
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:50:01] "GET /API/2/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=3
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:50:02] "GET /API/3/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=4
+DEBUG:root:error
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:50:03] "GET /API/4/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:50:04] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:50:05] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:50:05] "GET /API/1/ HTTP/1.1" 200 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:50:06] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:50:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:50:26] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:50:26] "[36mGET /static/scouts-stack-white.svg HTTP/1.1[0m" 304 -
+DEBUG:root:ProgramID=1
+DEBUG:root:No Module
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:50:43] "GET /API/1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:50:48] "GET /Pages/Explorers/VideosFromCamp HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:51:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:51:56] "[36mGET /static/SideBar.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Nov/2021 19:51:56] "GET /static/scouts-stack-white.svg HTTP/1.1" 200 -

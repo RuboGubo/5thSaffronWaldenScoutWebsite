@@ -2,11 +2,24 @@
     font-family: Montserrat;
 }
 
+#wraper {
+    position: fixed;
+    left: 10.5%;
+    right: 0;
+    top: 0;
+    width: 89.5%;
+    height: 100%;
+    /* Width of the side nav */
+}
+
+#wraper iframe {
+    width: 100%;
+    height: inherit;
+}
+
 .sidenav {
     height: 100%;
-    /* Full-height: remove this if you want "auto" height */
-    width: 200px;
-    /* Set the width of the sidebar */
+    width: 10%;
     position: fixed;
     /* Fixed Sidebar (stay in place on scroll) */
     z-index: 1;
@@ -16,20 +29,29 @@
     left: 0;
     background-color: rgba(102, 0, 180, 1);
     color: white;
-    /* Black */
     overflow-x: hidden;
-    /* Disable horizontal scroll */
     list-style: none;
 }
 
 .sidenav h1 {
-    margin-left: 11px;
-    margin-top: 0;
+    font-size: 2vw;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.sidenav img {
+    height: auto;
+    width: 80%;
+    margin: 10%;
+    margin-bottom: 0;
 }
 
 .sidenav div {
-    padding-top: 20px;
-    padding-left: 10px;
+    font-size: 1vw;
+    padding-top: 5%;
+    padding-left: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .sidenav div li {
@@ -55,12 +77,6 @@
     color: rgb(122, 68, 163);
 }
 
-.sidenav img {
-    height: auto;
-    width: 80%;
-    margin: 10%;
-}
-
 @keyframes loadin {
     0% {
         left: -10%;
@@ -80,16 +96,5 @@
     list-style: none;
     margin: 0;
     animation: loadin 0.25s;
-}
-
-
-/* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
-
-@media screen and (max-height: 450px) {
-    .sidenav {
-        padding-top: 15px;
-    }
-    .sidenav a {
-        font-size: 18px;
-    }
+    font-size: 1vw;
 }

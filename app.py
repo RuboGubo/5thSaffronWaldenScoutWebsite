@@ -13,6 +13,10 @@ def Home():
 def ContentHome():
     return render_template('Home.html')
 
+@app.route('/test')
+def test():
+    return 'Welcome to the test server, here you can see the scout website as it is developed by \'RuboGubo\''
+
 @app.route('/Pages/Explorers/VideosFromCamp')
 def ExplorersVideosFromCamp():
     return "<style>html{width: 100%; font-family: 'Courier New', Courier, monospace;}</style>" + 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'*100
@@ -39,5 +43,5 @@ def API(ProgramID):
 
 
 if __name__ == '__main__':
-    Dev = True
-    app.run(host='0.0.0.0', port=5000, debug=Dev)
+    Dev = False
+    app.run(host='192.168.0.19', port=8090, debug=Dev)
